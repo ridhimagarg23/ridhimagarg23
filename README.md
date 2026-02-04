@@ -1,4 +1,4 @@
-# Hi, I'm Ridhima 👩🏻‍💻
+# Hi, I'm Ridhima Garg 👩🏻‍💻
 
 I am an aspiring **Software Developer** building a strong foundation in **Python, full-stack development, and problem solving**.
 Currently focused on strengthening **Data Structures & Algorithms** and exploring **AI-driven real-world software systems**.
