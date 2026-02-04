@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Ridhima 👩🏻‍💻
 
-<!--
-**ridhimagarg23/ridhimagarg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Software Developer** building a strong foundation in **Python, full-stack development, and problem solving**.
+Currently focused on strengthening **Data Structures & Algorithms** and exploring **AI-driven real-world software systems**.
 
-Here are some ideas to get you started:
+I enjoy creating **clean, user-friendly, and meaningful digital experiences** while continuously learning and improving through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+* **Languages:** Python, JavaScript
+* **Core CS:** Data Structures & Algorithms
+* **Web:** HTML, CSS, Responsive Design
+* **Concepts:** Basics of AI/ML, Software Design Thinking
+* **Tools:** Git, GitHub
+
+---
+
+## 🌱 Current Focus
+
+* Improving **problem-solving and coding depth**
+* Learning **full-stack development step by step**
+* Building **AI-powered practical applications**
+
+---
+
+## 📌 Featured Projects
+
+* **Scam Detection System** – Identifies scam intent using intelligent logic
+* **Agentic HoneyPot** – AI-based automated responder for scam conversations
+* **Portfolio Website** – Modern, clean, and responsive personal portfolio
+
+---
+
+## 🎯 Goal
+
+To grow into a **reliable and skilled software developer** who contributes to
+**scalable, real-world, and user-focused software products**.
+
+---
+
+## 🤝 Connect With Me
+
+* **GitHub:** [https://github.com/ridhimagarg23](https://github.com/ridhimagarg23)
+* **LinkedIn:** [https://linkedin.com/in/ridhimagarg23](https://linkedin.com/in/ridhimagarg23)
+
+---
+
+⭐ *Always learning, always building.*
