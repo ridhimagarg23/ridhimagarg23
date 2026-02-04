@@ -27,9 +27,27 @@ I enjoy creating **clean, user-friendly, and meaningful digital experiences** wh
 
 ## 📌 Featured Projects
 
-* **Scam Detection System** – Identifies scam intent using intelligent logic
-* **Agentic HoneyPot** – AI-based automated responder for scam conversations
-* **Portfolio Website** – Modern, clean, and responsive personal portfolio
+### 🔹 Krishi Sahayak
+
+An intelligent assistant designed to support farmers with useful insights, guidance, and accessible digital help for agricultural needs.
+
+### 🔹 AI Stylist
+
+An AI-powered concept that suggests personalized styling ideas and fashion combinations based on user preferences and inputs.
+
+### 🔹 Image Generation AI Agent
+
+A creative AI agent capable of generating visual content from prompts, exploring practical applications of generative AI.
+
+---
+
+## 🛠️ Currently Building
+
+### 🔸 Agentic HoneyPot
+
+An AI-based automated responder for scam conversations that analyzes intent, engages safely, and studies scam behavior patterns.
+*Actively under development.*
+
 
 ---
 
