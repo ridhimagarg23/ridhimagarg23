@@ -4,74 +4,45 @@
 
 ---
 
-## 🧠 About • Systems • Thinking
+### 🚀 About Me
 
-I build **AI-driven and full-stack systems** with a focus on real-world impact and clean architecture.
+I build AI-driven and full-stack systems focused on real-world impact and scalable design.
 
-My work centers around:
-
-* Designing **intelligent backend systems and APIs**
-* Building **LLM-powered applications and agentic workflows**
-* Solving problems using **structured and data-driven approaches**
-
-I aim to create systems that are not just functional, but **efficient, scalable, and meaningful**.
+* Designing intelligent backend systems
+* Building LLM-powered applications
+* Exploring agentic AI workflows
 
 ---
 
-## 🚀 Skills • Stack • Tools
+### 🧰 Tech Stack
 
-**Languages:** Python • JavaScript • C++ • Java
-
-**AI Systems:** Generative AI • LLM Applications • Prompt Engineering • RAG • AI Agents
-
-**Backend:** Node.js • Express.js • Flask • FastAPI • REST APIs • JWT
-
-**Frontend:** React.js • Next.js • HTML • CSS • Tailwind
-
-**Databases:** MySQL • Firebase
-
-**Core CS:** DSA • OOP • DBMS • Operating Systems
-
-**Tools:** Git • GitHub • Vercel • Railway • HuggingFace • Colab
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![AI](https://img.shields.io/badge/AI%20%7C%20LLM-FF6F00?style=for-the-badge)
 
 ---
 
-## 📌 Work • Projects • Systems
+### 📊 GitHub Stats
 
-**AI Scam Detection & Agentic Honeypot**
-Built an LLM-based system to detect scam messages and designed an automated agent that engages scammers and extracts fraud signals using intelligent workflows. 
+![Ridhima's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhimagarg23\&show_icons=true\&theme=radical)
 
-**Krishi Sahayak – AI Platform**
-Developed a full-stack system providing crop recommendations and agricultural insights using multiple integrated data sources and AI models. 
-
-**Chic Chameleon – AI Stylist**
-Created a context-aware recommendation system using structured prompting to generate personalized styling suggestions. 
+![GitHub Streak](https://streak-stats.demolab.com?user=ridhimagarg23\&theme=radical)
 
 ---
 
-## 🏆 Achievements • Recognition • Work
+### 🧠 Currently Exploring
 
-* GATE 2026 Qualified (CSE)
-* Top 2% Finalist – India AI Impact Buildathon (HCL x GUVI)
-* AIR 29 – NCAT
-* Research paper presented at DTU (Micro-2024) 
-
----
-
-## 🎯 Focus • Growth • Direction
-
-Currently focused on:
-
-* Building **agentic AI systems**
-* Designing **scalable backend architectures**
-* Developing **practical LLM-based applications**
+* Agentic AI Systems
+* Backend Architecture
+* LLM-based Applications
 
 ---
 
-## 🤝 Connect • Links • Profiles
+### 🤝 Connect
 
-* GitHub: https://github.com/ridhimagarg23
-* LinkedIn: https://linkedin.com/in/ridhimagarg23
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/ridhimagarg23)
 
 ---
 
