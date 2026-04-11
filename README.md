@@ -1,68 +1,78 @@
 # Hi, I'm Ridhima Garg 👩🏻‍💻
 
-I am an aspiring **Software Developer** building a strong foundation in **Python, full-stack development, and problem solving**.
-Currently focused on strengthening **Data Structures & Algorithms** and exploring **AI-driven real-world software systems**.
-
-I enjoy creating **clean, user-friendly, and meaningful digital experiences** while continuously learning and improving through practical projects.
+💻 Software Developer | 🤖 AI Systems | ⚡ Backend & Problem Solving
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 About • Systems • Thinking
 
-* **Languages:** Python, JavaScript
-* **Core CS:** Data Structures & Algorithms
-* **Web:** HTML, CSS, Responsive Design
-* **Concepts:** Basics of AI/ML, Software Design Thinking
-* **Tools:** Git, GitHub
+I build **AI-driven and full-stack systems** with a focus on real-world impact and clean architecture.
 
----
+My work centers around:
 
-## 🌱 Current Focus
+* Designing **intelligent backend systems and APIs**
+* Building **LLM-powered applications and agentic workflows**
+* Solving problems using **structured and data-driven approaches**
 
-* Improving **problem-solving and coding depth**
-* Learning **full-stack development step by step**
-* Building **AI-powered practical applications**
+I aim to create systems that are not just functional, but **efficient, scalable, and meaningful**.
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Skills • Stack • Tools
 
-### 🔹 Krishi Sahayak
+**Languages:** Python • JavaScript • C++ • Java
 
-An intelligent assistant designed to support farmers with useful insights, guidance, and accessible digital help for agricultural needs.
+**AI Systems:** Generative AI • LLM Applications • Prompt Engineering • RAG • AI Agents
 
-### 🔹 AI Stylist
+**Backend:** Node.js • Express.js • Flask • FastAPI • REST APIs • JWT
 
-An AI-powered concept that suggests personalized styling ideas and fashion combinations based on user preferences and inputs.
+**Frontend:** React.js • Next.js • HTML • CSS • Tailwind
 
-### 🔹 Image Generation AI Agent
+**Databases:** MySQL • Firebase
 
-A creative AI agent capable of generating visual content from prompts, exploring practical applications of generative AI.
+**Core CS:** DSA • OOP • DBMS • Operating Systems
 
----
-
-## 🛠️ Currently Building
-
-### 🔸 Agentic HoneyPot
-
-An AI-based automated responder for scam conversations that analyzes intent, engages safely, and studies scam behavior patterns.
-*Actively under development.*
-
+**Tools:** Git • GitHub • Vercel • Railway • HuggingFace • Colab
 
 ---
 
-## 🎯 Goal
+## 📌 Work • Projects • Systems
 
-To grow into a **reliable and skilled software developer** who contributes to
-**scalable, real-world, and user-focused software products**.
+**AI Scam Detection & Agentic Honeypot**
+Built an LLM-based system to detect scam messages and designed an automated agent that engages scammers and extracts fraud signals using intelligent workflows. 
+
+**Krishi Sahayak – AI Platform**
+Developed a full-stack system providing crop recommendations and agricultural insights using multiple integrated data sources and AI models. 
+
+**Chic Chameleon – AI Stylist**
+Created a context-aware recommendation system using structured prompting to generate personalized styling suggestions. 
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Achievements • Recognition • Work
 
-* **GitHub:** [https://github.com/ridhimagarg23](https://github.com/ridhimagarg23)
-* **LinkedIn:** [https://linkedin.com/in/ridhimagarg23](https://linkedin.com/in/ridhimagarg23)
+* GATE 2026 Qualified (CSE)
+* Top 2% Finalist – India AI Impact Buildathon (HCL x GUVI)
+* AIR 29 – NCAT
+* Research paper presented at DTU (Micro-2024) 
 
 ---
 
-⭐ *Always learning, always building.*
+## 🎯 Focus • Growth • Direction
+
+Currently focused on:
+
+* Building **agentic AI systems**
+* Designing **scalable backend architectures**
+* Developing **practical LLM-based applications**
+
+---
+
+## 🤝 Connect • Links • Profiles
+
+* GitHub: https://github.com/ridhimagarg23
+* LinkedIn: https://linkedin.com/in/ridhimagarg23
+
+---
+
+⭐ *Building systems that think, not just respond.*
